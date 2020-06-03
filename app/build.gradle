@@ -45,7 +45,7 @@ dependencies {
 
 
     // lib
-    implementation project(':ViewKotlinEx')
+    implementation project(':KotlinViewEx')
 
 
 }

@@ -10,7 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/ViewKotlinEx" />
+            <option value="$PROJECT_DIR$/KotlinViewEx" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
