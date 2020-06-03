@@ -1,0 +1,3 @@
+include ':ViewKotlinEx'
+include ':app'
+rootProject.name = "ViewKotlinEx"
