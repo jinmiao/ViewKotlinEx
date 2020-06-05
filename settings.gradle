@@ -1,3 +1,4 @@
+include ':blibrary'
 include ':KotlinViewEx'
 include ':app'
 rootProject.name = "ViewKotlinEx"
